@@ -30,13 +30,14 @@ header{
 }
 
 header img{
-	border-radius: 60px;
+	border-radius: 100px;
 	border: 5px solid #fff;
 }
 
 h1{
 	font-size: 200%;
 	color: #fff;
+	font-family: all;
 }
 
 section{
@@ -47,6 +48,7 @@ h2{
 	font-size: 150%;
 	color: tomato;
 	margin-bottom: 12px;
+	font-family: all;
 }
 
 h3{
@@ -65,4 +67,9 @@ footer{
 	color: #fff;
 	margin-top: 30px;
 	padding: 30px 0;
+}
+
+section u {
+	color: tomato;
+	padding-bottom: 1px;
 }
