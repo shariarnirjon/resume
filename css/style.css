@@ -24,7 +24,7 @@ footer{
 
 header{
 	padding:30px 0;	
-	background-image: url(img/3.jpg);
+	background-image: url(img/5.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -37,7 +37,7 @@ header img{
 
 h1{
 	font-size: 200%;
-	color: #3399ff;
+	color: ##999999;
 	font-family: 'Lobster', cursive;
 }
 
