@@ -32,19 +32,19 @@ header{
 
 header img{
 	border-radius: 100px;
-	border: 5px solid #fff;
+	border: 5px solid #262626;
 }
 
 h1{
 	font-size: 200%;
-	color: ##999999;
+	color: #262626;
 	font-family: 'Lobster', cursive;
 }
 
 section{
 	padding-top: 30px;
 	background-color: #f2f2f2;
-}
+	}
 
 h2{
 	font-size: 150%;
